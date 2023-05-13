@@ -1,1 +1,1 @@
-# this is my tutorial repository
+# this is my tutorial repo
